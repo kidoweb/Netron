@@ -1,0 +1,9 @@
+.git/
+.gitignore
+.npmignore
+coverage/
+src/__tests__/
+*.test.js
+jest.config.js
+.eslintrc
+.prettierrc 
